@@ -1,5 +1,6 @@
 console.log("client side java script file is loaded")
 
+
 // fetch('http://puzzle.mead.io/puzzle').then( (response)=> {
 //     response.json().then( (data)=>{ //run when we got the data and it's parsed
 //         console.log(data.puzzle)
